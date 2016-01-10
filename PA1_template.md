@@ -56,6 +56,10 @@ respectively).
 
 ## What is the average daily activity pattern?
 
+We can establish the average daily activity pattern by plotting mean
+number of steps per 5-minute interval in the data.
+
+
 ```r
 # Similar to prior example - first we summarize - we want the mean
 # of the number of steps, but this time over interval rather than date
